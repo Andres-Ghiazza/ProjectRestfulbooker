@@ -59,4 +59,4 @@ This project was created as part of my QA Automation portfolio to demonstrate:
 ---
 Test Report
 You can view the generated automation report here:
-[pending CI setup]
+https://covert-flamingo.github.io/ProjectRestfulbooker/
