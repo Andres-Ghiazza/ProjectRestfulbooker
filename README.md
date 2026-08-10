@@ -45,7 +45,7 @@ This project was created as part of my QA Automation portfolio to demonstrate:
 ---
 # Dependencies installation
 - Clone the repository:
-- git clone https://github.com/Covert-Flamingo/Restfulbooker.git
+- git clone https://github.com/Andres-Ghiazza/Restfulbooker.git
 - npm install
 - Install Playwright browsers:
 - npx playwright install
@@ -59,4 +59,4 @@ This project was created as part of my QA Automation portfolio to demonstrate:
 ---
 Test Report
 You can view the generated automation report here:
-https://covert-flamingo.github.io/ProjectRestfulbooker/
+https://Andres-Ghiazza.github.io/ProjectRestfulbooker/
