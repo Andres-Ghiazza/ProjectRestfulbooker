@@ -45,7 +45,7 @@ This project was created as part of my QA Automation portfolio to demonstrate:
 ---
 # Dependencies installation
 - Clone the repository:
-- git clone https://github.com/Andres-Ghiazza/Restfulbooker.git
+- git clone https://github.com/Andres-Ghiazza/ProjectRestfulbooker.git
 - npm install
 - Install Playwright browsers:
 - npx playwright install
